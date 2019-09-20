@@ -6,11 +6,6 @@
     </sitemap>
 
     <sitemap>
-        <loc>https://nuevamedicina.online/sitemap_products.xml</loc>
-        <lastmod>{{ date('Y-m-d') }}</lastmod>
-    </sitemap>
-
-    <sitemap>
         <loc>https://nuevamedicina.online/sitemap_articles.xml</loc>
         <lastmod>{{ date('Y-m-d') }}</lastmod>
     </sitemap>

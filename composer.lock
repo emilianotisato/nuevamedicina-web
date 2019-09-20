@@ -3392,12 +3392,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/emilianotisato/laravel-filemanager.git",
-                "reference": "e3c568f5f8f6455679a3ecfaa51f4c6d70ab8c74"
+                "reference": "61609b3463353e8603ca108be4e6f51b7e59d0d2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/emilianotisato/laravel-filemanager/zipball/e3c568f5f8f6455679a3ecfaa51f4c6d70ab8c74",
-                "reference": "e3c568f5f8f6455679a3ecfaa51f4c6d70ab8c74",
+                "url": "https://api.github.com/repos/emilianotisato/laravel-filemanager/zipball/61609b3463353e8603ca108be4e6f51b7e59d0d2",
+                "reference": "61609b3463353e8603ca108be4e6f51b7e59d0d2",
                 "shasum": ""
             },
             "require": {
@@ -3466,7 +3466,7 @@
             "support": {
                 "source": "https://github.com/emilianotisato/laravel-filemanager/tree/master"
             },
-            "time": "2019-09-20T17:49:41+00:00"
+            "time": "2019-09-20T19:01:12+00:00"
         },
         {
             "name": "vlucas/phpdotenv",

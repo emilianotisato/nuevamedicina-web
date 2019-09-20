@@ -34,7 +34,7 @@
 <body>
 <!-- Login Full Background -->
 <!-- For best results use an image with a resolution of 1280x1280 pixels (prefer a blurred image for smaller file size) -->
-{{--<img src="/back/img/placeholders/backgrounds/login_full_bg.jpg" alt="MDV    " class="full-bg animation-pulseSlow">--}}
+{{--<img src="/back/img/placeholders/backgrounds/login_full_bg.jpg" alt="NMO    " class="full-bg animation-pulseSlow">--}}
 <!-- END Login Full Background -->
 
 <!-- Login Container -->

@@ -581,9 +581,10 @@ body.init footer {
     overflow: hidden;
     position: relative; }
 .bg img {
-    width: auto;
+    /* width: auto; */
     height: 100%;
-    float: right; }
+    /* float: right;  */
+}
 
 /* ============================================================================ */
 /* 3.2 - Page About																*/

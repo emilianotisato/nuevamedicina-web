@@ -55,7 +55,7 @@ class PagesController extends Controller
    ->search($request->get('query'));
 
         // $articles = Article::search($request->get('query'))->paginate(9);
-        // $search = $request->get('query');
+        $search = $request->get('query');
         return view('search', compact(['articles', 'search']));
 
     }

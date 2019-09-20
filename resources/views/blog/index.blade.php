@@ -8,7 +8,7 @@
         <div class="container-fluid">
 
             <ul class="breadcrumbs">
-                <li><a href="/">MDV</a></li>
+                <li><a href="/">NMO</a></li>
                 <li><a href="{{ route('articles') }}">Articulos</a></li>
                 @if(isset($category))
                     <li class="active">{{ $category->name }}</li>

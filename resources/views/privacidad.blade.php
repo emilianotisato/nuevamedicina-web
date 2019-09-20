@@ -8,7 +8,7 @@
         <div class="container-fluid">
 
             <ul class="breadcrumbs">
-                <li><a href="/">MDV</a></li>
+                <li><a href="/">NMO</a></li>
                 <li class="active">
                     Política de Privacidad
                 </li>
@@ -28,10 +28,10 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="text m-t-20">
-                        <span>Esta política de privacidad delínea cómo MDV Publication, Inc., maneja la información que recolecta y recibe, incluyendo información relacionada a visitas previas, recopilación de informacion y productos y servicios ofrecidos por MDV Publication, Inc.. Información personal se define como cualquier dato descriptivo sobre el usuario, tal como, pero no limitado a: su nombre, dirección de residencia o trabajo, dirección de correo electrónico, número de teléfono, y otra cualquier otra información que usualmente no es disponible públicamente.</span><br><br>
+                        <span>Esta política de privacidad delínea cómo Thorma Web LLC, maneja la información que recolecta y recibe, incluyendo información relacionada a visitas previas, recopilación de informacion y productos y servicios ofrecidos por Thorma Web LLC. Información personal se define como cualquier dato descriptivo sobre el usuario, tal como, pero no limitado a: su nombre, dirección de residencia o trabajo, dirección de correo electrónico, número de teléfono, y otra cualquier otra información que usualmente no es disponible públicamente.</span><br><br>
 
                         <p> 1. Requisito de edad<br>
-                            MDV Publication, Inc. no solicita intencionalmente cualquier información personal identificable a personas menores de 21 años de edad, (dependiendo de cuál seal la edad legal mínima en su estado, país o comunidad). En adición, MDV Publication, Inc. no obtiene, retiene o utiliza intencionalmente información de persona alguna que indique que es menor de 21 años de edad, a menos que la edad legal mínima de estado o país le permita acceder este sitio web. Por consiguiente, a personas menores de 21 años de edad se les puede limitar la participación de ciertas secciones de este sitio web.</p>
+                            Thorma Web LLC no solicita intencionalmente cualquier información personal identificable a personas menores de 21 años de edad, (dependiendo de cuál seal la edad legal mínima en su estado, país o comunidad). En adición, Thorma Web LLC no obtiene, retiene o utiliza intencionalmente información de persona alguna que indique que es menor de 21 años de edad, a menos que la edad legal mínima de estado o país le permita acceder este sitio web. Por consiguiente, a personas menores de 21 años de edad se les puede limitar la participación de ciertas secciones de este sitio web.</p>
 
 
                         <p>2. Recopilación de información<br>
@@ -49,7 +49,7 @@
 
 
                         <p>5. Revelación de su información personal<br>
-                            MDV Publication, Inc. revelará información personal cuando entiende, en buena fe, que tal revelación de información (a) sea requerido por ley, incluyendo, por ejemplo, para cumplir con una orden o citación de la corte, o (b) que ayudará a cumplir y proteger su seguridad, la seguridad de nuestro sitio Web, o de MDV Publication, Inc. y el personal que compone a MDV Publication, Inc..</p>
+                            Thorma Web LLC revelará información personal cuando entiende, en buena fe, que tal revelación de información (a) sea requerido por ley, incluyendo, por ejemplo, para cumplir con una orden o citación de la corte, o (b) que ayudará a cumplir y proteger su seguridad, la seguridad de nuestro sitio Web, o de Thorma Web LLC y el personal que compone a Thorma Web LLC.</p>
 
 
                         <p>6. Aceptación de los términos<br>

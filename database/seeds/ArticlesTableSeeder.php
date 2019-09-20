@@ -14,7 +14,7 @@ class ArticlesTableSeeder extends Seeder
         factory(\App\Article::class, 30)->create()->each( function($article) {
 
             $article->images()->create([
-                'url'   =>  'articles/test.jpeg',
+                'url'   =>  'articles/test.jpg',
                 'order' =>  1
             ]);
         });

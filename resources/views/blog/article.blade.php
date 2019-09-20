@@ -29,7 +29,7 @@
         <div class="container-fluid">
 
             <ul class="breadcrumbs">
-                <li><a href="/">MDV</a></li>
+                <li><a href="/">NMO</a></li>
                 <li><a href="{{ route('articles') }}">Articulos</a></li>
                 <li><a href="{{ route('articleCategory', $article->category->slug) }}">{{ $article->category->name }}</a></li>
                 <li class="active">{{ $article->name }}</li>
