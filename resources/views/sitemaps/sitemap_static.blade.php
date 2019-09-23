@@ -22,13 +22,6 @@
     </url>
 
     <url>
-        <loc>https://www.nuevamedicina.online/suscripciones</loc>
-        <lastmod>{{ date('Y') }}-01-01</lastmod>
-        <changefreq>yearly</changefreq>
-        <priority>0.40</priority>
-    </url>
-
-    <url>
         <loc>https://www.nuevamedicina.online/politica-de-privacidad</loc>
         <lastmod>{{ date('Y') }}-01-01</lastmod>
         <changefreq>yearly</changefreq>

@@ -1,6 +1,6 @@
 @extends('layouts.master')
 
-@section('meta_title')DISEÑO | DECORACIÓN | ARQUITECTURA @endsection
+@section('meta_title') Medicina del Futuro @endsection
 
 @section('content')
     <!-- Slider -->
